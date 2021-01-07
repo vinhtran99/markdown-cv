@@ -6,7 +6,7 @@ title:
 Curriculum Vitae
 
 <div id="webaddress">
-<a href="thevinh130799@gmail.com">Email</a>
+<a href="mailto:thevinh130799@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/vinh-tran-5b83ab178/">LinkedIn</a>
   | <a href="https://github.com/vinhtran99">Github</a>
 </div>
