@@ -14,10 +14,10 @@ Curriculum Vitae
 
 ## About me
 
-I am a student seeking a job opportunity as a software engineer. I am pretty confident with my skills, having programming for 3+ years, with a wide range of knowledge. I am always eager to learn new things and latest technologies. I care about clean code and good software development practices. I love to solving new problems CURIOSITY
+I am a student seeking a job opportunity as a software engineer. I am pretty confident with my skills, having programming for 3+ years, with a wide range of knowledge. I am always eager to learn new things and latest technologies. I care about clean code and good software development practices. I love to solving new problems everyday. 
 
 
-## Skills
+## Skills and knowlegde
 
 ### Proficient
 
@@ -37,32 +37,34 @@ VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (p
 `2017-present`
 __Vaasan ammattikorkeakoulu__
 
-Major in Embedded Systems, minor in Software Engineering
+Bachelor of Enginnering, with major in Embedded Systems, minor in Software Engineering
 
 ## Projects
 
 `2018`
 __Live sound chart__
 
-Application development course project. System originally runs on a Raspberry Pi, but on any system runs Linux. Connect a USB sound card, and run the program. See the sound levels live inside your terminal or inside browser.
+Application development course project. System originally runs on a Raspberry Pi, but actually on any system runs Linux. Connect a USB sound card, and run the program. See the sound levels live inside your terminal or inside browser.
 
-Sound is recorded to a .wav file, the program extracts sound levels from it and displays inside the terminal using VT100 escape sequences. When enabled, it also sends the data to the school web server with PHP for rendering. Whole program is done in C. 
+Sound is recorded to a .wav file, the program extracts sound levels from it and displays inside the terminal using VT100 escape sequences. When enabled, it also sends the data to the school web server with PHP for rendering. Whole program is done in C and relied on single third party library *libcurl*. 
 
-network configuration on Linux, device setup (USB mic) from command line, gnu make, git, program organization, file handling
+I learn quite a lot from this project: network configuration on Linux, device setup (USB mic) from command line, gnu make, git, program organization, file handling
 
 `2018`
 __Snake in terminal__
 
 Play the classic game in any terminal emulator that supports VT100. 
+
 I implement the snake as a linked-list to ease moving the snake as well as adding length. Game elements displayed in the terminal as block characters and their movement using escape sequences. To read keypress I use POSIX calls and raw terminal objects. I also made another version for Windows console.
-A project that helped me learn C (especially pointers) and simple data structures.
+
+This is the project that helped me learn more about C (especially pointers) and simple data structures.
 
 `2019`
 __Energy usage charting 2019__
 
-Object oriented programming course project. A GUI program allowing read/write/edit and viewing the amount of energy used in months. 
-[...]
-The difficult part is events and exceptions handling in Java code. 
+Object oriented programming course project. A GUI program allowing read/write/edit and viewing the amount of energy used in months as barcharts. 
+
+The data contains pairs of (key, value) where key is the month and value is the amount of energy consumed in that month. These pairs are kept in text files in human-readable format. The program has all features of a basic GUI program: menu, input checking, dialog boxes for warnings, etc. The difficult part is events and exceptions handling, all written in Java code without a GUI creator. 
 
 `2020`
 __Intrusion detection__ 
