@@ -32,38 +32,19 @@ VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (p
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-present`
+__Vaasan ammattikorkeakoulu__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Major in Embedded Systems
 
-- Sizar
+- Minor in Software Engineering
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Projects
 
-- Fellow
+`2018`
+__Live sound chart__
+Application development course project
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `1669`
 Lectiones opticæ.
