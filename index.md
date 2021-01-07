@@ -35,9 +35,7 @@ VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (p
 `2017-present`
 __Vaasan ammattikorkeakoulu__
 
-- Major in Embedded Systems
-
-- Minor in Software Engineering
+Major in Embedded Systems, minor in Software Engineering
 
 ## Projects
 
