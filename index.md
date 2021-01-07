@@ -6,14 +6,16 @@ title:
 Curriculum Vitae
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="thevinh130799@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/vinh-tran-5b83ab178/">LinkedIn</a>
+  | <a href="https://github.com/vinhtran99">Github</a>
 </div>
 
 
 ## About me
 
-abcabcac
+I am a student seeking a job opportunity as a software engineer. I am pretty confident with my skills, having programming for 3+ years, with a wide range of knowledge. I am always eager to learn new things and latest technologies. I care about clean code and good software development practices. I love to solving new problems CURIOSITY
+
 
 ## Skills
 
@@ -64,31 +66,19 @@ The difficult part is events and exceptions handling in Java code.
 
 `2020`
 __Intrusion detection__ 
+
 The system is to manage the property monitoring and control. The device can be used as an anti-crime device, home appliances and can be installed at the buildings’ entrance or other places that require motion monitoring. The system can be used to detect motion at the maximum range of 5 meters, beam angle of 100 degrees, movement speed from 0.8 to 1.2m/s and target size of 700mm x 250mm. 
+
 Hardware: STM32 Nucleo board will be the central unit to receive data that was read by the sensor. The data will then be converted in XBEE data frame format and sent to the server. On the receiver side, a Raspberry Pi as a central unit, connected with another XBEE module handling on receiving the data. Received data then can be processed as desired.
 
 `2020`
 __Home automation system__ 
+
 A group project (5 people). Aim is to develop and build a secure and scale-able property control and monitoring system. System is meant to be used for property caretakers, homeowners and for anyone who have multiple separate locations to control remotely.
+
 Role: Hardware developer. I develop the custom electronics which handling the transmission systems between the wireless sensors and the ESP32 and test the software with ESPHome integrated in Home Assistant
 
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Extra
 
 
 
