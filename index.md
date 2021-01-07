@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vinh Tran
+Curriculum Vitae
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,18 +11,23 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giants
+abcabcac
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Proficient
 
+ANSI C, Java (SE), Microcontrollers (programming in bare metal C with AVR, ARM, ESP), Circuit board design, Software development skills (version control, agile, testing, etc.)
 
-### Research interests
+### Intermediate
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Python, C++ 17, C# (.NET), Linux, Electronics, Networking
+
+### Beginner
+
+VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (plain Java, or with Spring)
 
 
 ## Education
