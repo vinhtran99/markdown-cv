@@ -16,25 +16,31 @@ Curriculum Vitae
 
 I am a student seeking a job opportunity as a software engineer. Having programming for 3+ years, with a wide range of knowledge, I am pretty confident with my skills. As a person with huge curiosity I always eager to learn new things and latest technologies. When working on softwares, I care about clean code and good practices. And I am not afraid to face new problems because I love to tackle them everyday. 
 
+I used to practice programming on leetcode-style problems at Codeforces.com (<a href="https://codeforces.com/profile/the-vinh">my profile</a>). In my spare time I read about various computer topics, playing with <a href="https://en.wikipedia.org/wiki/Amiga_500">old hardware</a> and contributing to Wikipedia.
 
 ## Skills and knowlegde
 
-### Proficient
+__Proficient__
 
 ANSI C, Java (SE), Microcontrollers (programming in bare metal C with AVR, ARM, ESP), Circuit board design, Software development skills (version control, agile, testing, etc.)
 
-### Intermediate
+__Intermediate__
 
 Python, C++ 17, C# (.NET), Linux, Electronics, Networking
 
-### Beginner
+__Beginner__
 
 VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (plain Java, or with Spring)
 
 
 ## Education
 
-`2017-present`
+`2014-2017`
+__Luong The Vinh High School for the gifted__
+
+Major in Mathematics
+
+`2017-2021`
 __Vaasan ammattikorkeakoulu__
 
 Bachelor of Enginnering, with major in Embedded Systems, minor in Software Engineering
@@ -80,9 +86,6 @@ A group project (5 people). Aim is to develop and build a secure and scale-able 
 
 Role: Hardware developer. I develop the custom electronics which handling the transmission systems between the wireless sensors and the ESP32 and test the software with ESPHome integrated in Home Assistant
 
-## Extra
-
-I used to practice programming on leetcode-style problems at Codeforces.com (<a href="https://codeforces.com/profile/the-vinh">my profile</a>). In my spare time I read about various computer topics, playing with <a href="https://en.wikipedia.org/wiki/Amiga_500">old hardware</a> and contributing to Wikipedia.
 
 <!-- ### Footer
 
