@@ -18,7 +18,7 @@ I am a student seeking a job opportunity as a software engineer. Having programm
 
 I used to practice programming on leetcode-style problems at Codeforces.com (<a href="https://codeforces.com/profile/the-vinh">my profile</a>). In my spare time I read about various computer topics, playing with <a href="https://en.wikipedia.org/wiki/Amiga_500">old hardware</a> and contributing to Wikipedia.
 
-## Skills and knowlegde
+## Skills and knowledge
 
 __Proficient__
 
