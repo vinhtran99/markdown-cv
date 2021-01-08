@@ -73,7 +73,7 @@ Object oriented programming course project. A GUI program allowing read/write/ed
 The data contains pairs of (key, value) where key is the month and value is the amount of energy consumed in that month. These pairs are kept in text files in human-readable format. The program has all features of a basic GUI program: menu, input checking, dialog boxes for warnings, etc. The difficult part is events and exceptions handling, all written in Java code without a GUI creator. 
 
 `April 2020`
-__[Intrusion detection](https://github.com/vinhtran99)__ 
+__[Intrusion detection](https://drive.google.com/file/d/1ACM8D9NNrOYE1t33UXAfrLsLXQjTE2Nf/view?usp=sharing)__ 
 
 The system is to manage the property monitoring and control. The device can be used as an anti-crime device, home appliances and can be installed at the buildings’ entrance or other places that require motion monitoring. The system can be used to detect motion at the maximum range of 5 meters, beam angle of 100 degrees, movement speed from 0.8 to 1.2m/s and target size of 700mm x 250mm. 
 
