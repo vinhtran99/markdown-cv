@@ -38,7 +38,7 @@ VHDL, Rust, Javascript, bash, Concurrency, Signal processing, Web development (p
 `2014-2017`
 __Luong The Vinh High School for the gifted__
 
-Specialize in Mathematics
+Specialize in Mathematics, top 5 students
 
 `2017-2021`
 __Vaasan ammattikorkeakoulu__
