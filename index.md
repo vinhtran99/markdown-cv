@@ -16,7 +16,7 @@ Curriculum Vitae
 
 I am a student seeking a job opportunity as a software engineer. Having programming for 3+ years, with a wide range of knowledge, I am pretty confident with my skills. As a person with huge curiosity I always eager to learn new things and latest technologies. When working on softwares, I care about clean code and good practices. And I am not afraid to face new problems because I love to tackle them everyday. 
 
-I used to practice programming on leetcode-style problems at Codeforces.com ([my profile](https://codeforces.com/profile/the-vinh)). In my spare time I read about various computer topics, playing with <a href="https://en.wikipedia.org/wiki/Amiga_500">old hardware</a> and contributing to Wikipedia.
+I used to practice programming on leetcode-style problems at Codeforces.com (__[my profile]__(https://codeforces.com/profile/the-vinh)). In my spare time I read about various computer topics, playing with <a href="https://en.wikipedia.org/wiki/Amiga_500">old hardware</a> and contributing to Wikipedia.
 
 ## Skills and knowledge
 
