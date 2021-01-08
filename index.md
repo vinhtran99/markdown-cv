@@ -47,7 +47,7 @@ Bachelor of Enginnering, with major in Embedded Systems, minor in Software Engin
 
 ## Projects
 
-`2018`
+`April 2018`
 __[Live sound chart](https://github.com/vinhtran99/rpi-soundmap)__
 
 Application development course project. System originally runs on a Raspberry Pi, but actually on any system runs Linux. Connect a USB sound card, and run the program. See the sound levels live inside your terminal or inside browser.
@@ -56,8 +56,8 @@ Sound is recorded to a .wav file, the program extracts sound levels from it and 
 
 I learn quite a lot from this project: network configuration on Linux, device setup (USB mic) from command line, gnu make, git, program organization, file handling
 
-`2018`
-__Snake in terminal__
+`June 2018`
+__[Snake in terminal](https://github.com/vinhtran99/cppnibbles)__
 
 Play the classic game in any terminal emulator that supports VT100. 
 
@@ -65,21 +65,21 @@ I implement the snake as a linked-list to ease moving the snake as well as addin
 
 This is the project that helped me learn more about C (especially pointers) and simple data structures.
 
-`2019`
-__Energy usage charting__
+`April 2019`
+__[Energy usage charting](https://github.com/vinhtran99/)__
 
 Object oriented programming course project. A GUI program allowing read/write/edit and viewing the amount of energy used in months as barcharts. 
 
 The data contains pairs of (key, value) where key is the month and value is the amount of energy consumed in that month. These pairs are kept in text files in human-readable format. The program has all features of a basic GUI program: menu, input checking, dialog boxes for warnings, etc. The difficult part is events and exceptions handling, all written in Java code without a GUI creator. 
 
-`2020`
-__Intrusion detection__ 
+`April 2020`
+__[Intrusion detection](https://github.com/vinhtran99)__ 
 
 The system is to manage the property monitoring and control. The device can be used as an anti-crime device, home appliances and can be installed at the buildings’ entrance or other places that require motion monitoring. The system can be used to detect motion at the maximum range of 5 meters, beam angle of 100 degrees, movement speed from 0.8 to 1.2m/s and target size of 700mm x 250mm. 
 
 Hardware: STM32 Nucleo board will be the central unit to receive data that was read by the sensor. The data will then be converted in XBEE data frame format and sent to the server. On the receiver side, a Raspberry Pi as a central unit, connected with another XBEE module handling on receiving the data. Received data then can be processed as desired.
 
-`2020`
+`October-December 2020`
 __Home automation system__ 
 
 A group project (5 people). Aim is to develop and build a secure and scale-able property control and monitoring system. System is meant to be used for property caretakers, homeowners and for anyone who have multiple separate locations to control remotely.
