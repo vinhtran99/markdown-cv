@@ -66,7 +66,7 @@ I implement the snake as a linked-list to ease moving the snake as well as addin
 This is the project that helped me learn more about C (especially pointers) and simple data structures.
 
 `April 2019`
-__[Energy usage charting](https://github.com/vinhtran99/)__
+__[Energy usage charting](https://github.com/vinhtran99/Electric-Consumption-Chart)__
 
 Object oriented programming course project. A GUI program allowing read/write/edit and viewing the amount of energy used in months as barcharts. 
 
