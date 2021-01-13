@@ -43,7 +43,7 @@ Specialize in Mathematics, top 5 students
 `2017-2021`
 __Vaasan ammattikorkeakoulu__
 
-Bachelor of Enginnering, with major in Embedded Systems, minor in Software Engineering
+Bachelor of Engineering, with major in Embedded Systems, minor in Software Engineering
 
 ## Projects
 
